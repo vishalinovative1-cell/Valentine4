@@ -23,7 +23,7 @@ const App = () => {
             {valentine}
             style={styles.gif}
           />
-          <h1 style={styles.text}>Prachi, will you be my Valentine?</h1>
+          <h1 style={styles.text}>Srishti, will you be my Valentine?</h1>
           <div style={styles.buttonGroup}>
             <button 
               style={styles.yesButton} 
